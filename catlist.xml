@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+
+		<category>
+			<CategoryName>Business and Office</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>100000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Businesses</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Displays and Exhibits</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Equipment and Machines</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Ergonomics</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Office Furnishings</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Office Supplies</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Retail Management Equipment</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>100</CategoryType>
+			<SubCategoryCode>100009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Chemicals</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>101000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Cleaning</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Flarors and Fragrances</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Magnesium Compounds</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Pigments</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Polymers</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Processing Equipment</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Rare Earth Elements</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>101</CategoryType>
+			<SubCategoryCode>101009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Computer</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>102000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Communication and Networking</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Desktops</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Hardware</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Mainframes</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Notebooks and Laptops</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Servers</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Software</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>102</CategoryType>
+			<SubCategoryCode>102008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Construction</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>103000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Architectural Hardware</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Cabinetry</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Conveying Systems</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Doors and Windows</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Earth Moving Equipment@</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Electrical</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Finishes and Coverings</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>HVAC</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Masonry</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Materials</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Mechanical</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103011</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Plumbing</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103012</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Power Tools</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103013</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Residential Hardware</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103014</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>103</CategoryType>
+			<SubCategoryCode>103015</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Consumer Goods</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>104000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Animal and Pet Supplies</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Apparel</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Books</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Consumer Electronics</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Household</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Lawn and Garden</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Luggage</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Personal Care</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Pools, Spas and Saunas</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Power Tools@</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Sporting Goods</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104011</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Toys and Games</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104012</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>104</CategoryType>
+			<SubCategoryCode>104013</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Electronics</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>105000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Batteries@</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Board Level Components</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Cable Assemblies</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Circuit Boards</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Consumer Electronics</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Electric Motors</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Laser</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Lighting &amp; Display</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Power Supplies</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>RF &amp; Microware</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Sensors</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105011</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Test &amp; Measurement</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105012</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Equipment</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105013</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>105</CategoryType>
+			<SubCategoryCode>105014</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Energy, Mining and Minerals</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>106000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Electricity</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Electrochemical</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Mining &amp; Mineral Exploration</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Nuclear</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Petroleum</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>106</CategoryType>
+			<SubCategoryCode>106007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Entertainment and Media Production</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>107000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Audio</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Lighting</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Movies &amp; Film</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Music</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Set Construction</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Supplies &amp; Equipment</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Television</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Video</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>107</CategoryType>
+			<SubCategoryCode>107010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Environment</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>108000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Air Quality</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Hazardous Substance Management</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Monitoring, Sampling, &amp; Testing</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Natural Resource Management</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Pollution</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Waste Management</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Water Treatment</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>108</CategoryType>
+			<SubCategoryCode>108009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Food and Beverage</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>109000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Beverages</CategoryName>
+			<CategoryType>109</CategoryType>
+			<SubCategoryCode>109001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Food</CategoryName>
+			<CategoryType>109</CategoryType>
+			<SubCategoryCode>109002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Processing Equipment</CategoryName>
+			<CategoryType>109</CategoryType>
+			<SubCategoryCode>109003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Restaurant Furniture &amp; Fixtures</CategoryName>
+			<CategoryType>109</CategoryType>
+			<SubCategoryCode>109004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Restaurant Supplies</CategoryName>
+			<CategoryType>109</CategoryType>
+			<SubCategoryCode>109005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>109</CategoryType>
+			<SubCategoryCode>109006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Forestry and Agriculture</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>110000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Dairy Equipment</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Farming Equipment</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Floriculture</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Livestock</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Logging</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Milling</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Pulp &amp; Paper</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Storage</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>110</CategoryType>
+			<SubCategoryCode>110010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Industrial Supplies</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>111000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Abrasives</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Batteries</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Bearings</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Chains &amp; Belts</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Cleaning</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Controls &amp; Instruments</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Fabrics &amp; Textiles</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Fasteners</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Fluid &amp; Gas Control</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Generators</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>HVAC@</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111011</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Heat Transfer Components</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111012</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Insulation</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111013</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Lubricants</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111014</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Machinery &amp; Tools</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111015</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Magnets</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111016</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Materials</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111017</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Materials Handling</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111018</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Paints, Stains &amp; Sealants</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111019</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Power Transmissions</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111020</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Pulp &amp; Paper@</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111021</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Safety &amp; Security</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111022</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Storage</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111023</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Warehouse Equipment</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111024</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Wire &amp; Cable</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111025</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>111</CategoryType>
+			<SubCategoryCode>111026</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Manufacturing and Processing</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>112000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Casting, Molding &amp; Machining</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Chemical Processing</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Food &amp; Beverage</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Injection Molding</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Machinery &amp; Tools@</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Metal Working</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Refrigeration</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>112</CategoryType>
+			<SubCategoryCode>112008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Packaging</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>113000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Containers</CategoryName>
+			<CategoryType>113</CategoryType>
+			<SubCategoryCode>113001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Converting</CategoryName>
+			<CategoryType>113</CategoryType>
+			<SubCategoryCode>113002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Equipment &amp; Machinery</CategoryName>
+			<CategoryType>113</CategoryType>
+			<SubCategoryCode>113003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Materials</CategoryName>
+			<CategoryType>113</CategoryType>
+			<SubCategoryCode>113004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>113</CategoryType>
+			<SubCategoryCode>113005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Printing and Publishing</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>114000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>114</CategoryType>
+			<SubCategoryCode>114001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Books@</CategoryName>
+			<CategoryType>114</CategoryType>
+			<SubCategoryCode>114002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Supplies &amp; Equipment</CategoryName>
+			<CategoryType>114</CategoryType>
+			<SubCategoryCode>114003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>114</CategoryType>
+			<SubCategoryCode>114004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Science and Medicine</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>115000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Biotechnology</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Dental Equipment &amp; Supplies</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Hospital Supplies &amp; Equipment</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Laboratory Equipment</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Medical Supplies &amp; Equipment</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Nutritional Supplements@</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Pharmaceuticals</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Scientific Instruments</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>115</CategoryType>
+			<SubCategoryCode>115010</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Telecommunication</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>116000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Adapters &amp; Switches</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Antennas &amp; Towers</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Headsets</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Telephones</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Test Equipment</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Wire &amp; Cable@</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Wireless</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116008</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>116</CategoryType>
+			<SubCategoryCode>116009</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Textiles and Apparel</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>117000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>All</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Apparel@</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Fabric</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Industrial Fabrics &amp; Textiles@</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Leather</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Manufacturing</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117006</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Other</CategoryName>
+			<CategoryType>117</CategoryType>
+			<SubCategoryCode>117007</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Transportation</CategoryName>
+			<CategoryType>a</CategoryType>
+			<SubCategoryCode>118000</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Automotive</CategoryName>
+			<CategoryType>118</CategoryType>
+			<SubCategoryCode>118001</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Aviation</CategoryName>
+			<CategoryType>118</CategoryType>
+			<SubCategoryCode>118002</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Maritime</CategoryName>
+			<CategoryType>118</CategoryType>
+			<SubCategoryCode>118003</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Rail</CategoryName>
+			<CategoryType>118</CategoryType>
+			<SubCategoryCode>118004</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Shipping</CategoryName>
+			<CategoryType>118</CategoryType>
+			<SubCategoryCode>118005</SubCategoryCode>
+		</category>
+		
+		<category>
+			<CategoryName>Traffic Control</CategoryName>
+			<CategoryType>118</CategoryType>
+			<SubCategoryCode>118006</SubCategoryCode>
+		</category>
+		</categories>
